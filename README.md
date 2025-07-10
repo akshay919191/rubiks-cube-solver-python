@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/28348c44-4ddc-49ba-820b-0b0501cd5901
+
 # 🧠 Rubik's Cube Solver (Beginner Method - Python)
 
 This project is a full **3x3 Rubik’s Cube Solver** built using Python, based on the beginner’s layer-by-layer method. It handles:
